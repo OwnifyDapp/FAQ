@@ -1,11 +1,11 @@
 # Table of contents
 
-## Intro
+## Introduction
 
 * [Vision](README.md)
 
 ## Products
 
-* [Introduction ](products/introduction.md)
+* [Ecosystem](products/ecosystem.md)
 * [Ownify Bussiness App](products/ownify-bussiness-app.md)
 * [Ownify User App](products/ownify-user-app.md)
